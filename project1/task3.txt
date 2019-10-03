@@ -1,0 +1,19 @@
+{ "query": "web", "description": "all pages related to web", "pages": ["https://simple.wikipedia.org/wiki/Website", "https://simple.wikipedia.org/wiki/Spider_web"]} 
+{ "query": "art", "description": "all pages related to art", "pages": ["https://simple.wikipedia.org/wiki/Art", "https://simple.wikipedia.org/wiki/Art_music","https://simple.wikipedia.org/wiki/Art_film","https://simple.wikipedia.org/wiki/Art_game","https://simple.wikipedia.org/wiki/Art_rock"]} 
+{ "query": "google", "description": "all pages related to google", "pages": ["https://simple.wikipedia.org/wiki/Google", "https://simple.wikipedia.org/wiki/Google_Search", "https://simple.wikipedia.org/wiki/Google_Chrome"]} 
+{ "query": "vocabulary", "description": "all pages related to vocabulary", "pages": ["https://simple.wikipedia.org/wiki/Vocabulary""]} 
+{ "query": "Japan", "description": "all pages related to Japan", "pages": ["https://simple.wikipedia.org/wiki/Japan", "https://simple.wikipedia.org/wiki/Districts_of_Japan"]}
+{ "query": "java", "description": "all pages related to java", "pages": ["https://simple.wikipedia.org/wiki/Java_(programming_language)", "https://simple.wikipedia.org/wiki/Java_Embedding_Plugin","https://simple.wikipedia.org/wiki/Enterprise_Java_Beans"]}
+{ "query": "addition", "description": "all pages related to addition", "pages": ["https://simple.wikipedia.org/wiki/Addition", "https://simple.wikipedia.org/wiki/Addition_reaction"]}
+{ "query": "animal", "description": "all pages related to animal", "pages": ["https://simple.wikipedia.org/wiki/Animal", "https://simple.wikipedia.org/wiki/Service_animal", "https://simple.wikipedia.org/wiki/Terrestrial_animal"]}
+{ "query": "botany", "description": "all pages related to botany", "pages": ["https://simple.wikipedia.org/wiki/Botany", "https://simple.wikipedia.org/wiki/Stigma_(botany)"]}
+{ "query": "editor", "description": "all pages related to editor", "pages": ["https://simple.wikipedia.org/wiki/Editor", "https://simple.wikipedia.org/wiki/Text_editor", "https://simple.wikipedia.org/wiki/Hex_editor"]}
+ 
+ 
+ 
+
+
+
+
+
+
