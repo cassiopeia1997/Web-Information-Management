@@ -1,0 +1,20 @@
+0: optical research
+1: sociology research
+2: air dynamics 
+3: region development
+4: cellular biology
+5: polymer material
+6: industrial technology
+7: computer science
+8: network system
+9: scientific research training
+10: meteorology 
+11: quantum study
+12: science education
+13: earth evolution
+14: research paper
+15: mathematical problem
+16: chemistry study
+17: biological evolution
+18: research institute
+19: children's development
